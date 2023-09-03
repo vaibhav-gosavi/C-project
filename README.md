@@ -1,5 +1,5 @@
 # C-project
-  <h1>DTH Billing System Documentation</h1>
+  <h1>DTH Billing System </h1>
 
 <h2>Introduction:</h2>
 <p>Welcome to the documentation for the DTH Billing System project. This project provides a DTH (Direct-to-Home) service for users to subscribe to various channels and plans. The system has two main roles - Admin and User. The Admin role has the privilege to manage channels, pricing, and discounts, while the User role can subscribe to channels and plans as per their preferences.</p>
