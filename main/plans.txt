@@ -1,0 +1,4 @@
+Plan 1: Channel A, Channel B, Channel C, Channel D $40.00
+Plan 2: Channel B, Channel E, Channel F, Channel G $35.00
+Plan 3: Channel C, Channel H, Channel I, Channel J $30.00
+Plan 4: Channel A, Channel D, Channel F, Channel H $45.00
