@@ -22,10 +22,10 @@
 <p>The DTH Billing System is implemented in C, providing a command-line interface for both the Admin and User roles. It uses file handling in C to manage channels, pricing, and discounts.</p>
 
 <h2>Mind Map:</h2>
-<img src="https://github.com/vaibhav-gosavi/C-project/blob/main/My%20First%20Board.jpg">
+<img src="https://github.com/vaibhav-gosavi/C-project/blob/main/mindmap.jpg">
 
 
 
 <h2>Flowchart:</h2>
-<img src="https://github.com/vaibhav-gosavi/C-project/blob/main/second%20pic.jpg">
+<img src="https://github.com/vaibhav-gosavi/C-project/blob/main/flowchart.drawio.png">
 
