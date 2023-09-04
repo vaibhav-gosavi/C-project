@@ -6,3 +6,4 @@ diss_tv 203
 diss_tv 230
 Tejas_tv 2
 nasa_news 999
+cnbc_tv 100
