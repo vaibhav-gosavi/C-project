@@ -27,5 +27,5 @@
 
 
 <h2>Flowchart:</h2>
-<img src="https://github.com/vaibhav-gosavi/C-project/blob/main/flowchart.drawio.png">
+<img src="https://github.com/vaibhav-gosavi/C-project/blob/main/flowchart1.drawio.png">
 
